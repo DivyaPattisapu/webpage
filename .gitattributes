@@ -1,1 +1,5 @@
+.git/objects/pack/pack-61a99fe0ad00887932b7ae2f4235cd6e5fceca96.pack filter=lfs diff=lfs merge=lfs -text
 *.node filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
+af0016e6f2c00e88c5a08cdeb364f5b3fec87dd16d4f241956a77b29aeb302e9 filter=lfs diff=lfs merge=lfs -text
+36fa1ee998aec9383164269136cfd82324aebd5e2390ac521bca2bd22e4f2f2c filter=lfs diff=lfs merge=lfs -text
